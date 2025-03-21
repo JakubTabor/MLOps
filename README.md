@@ -8,3 +8,4 @@
 ![](https://github.com/JakubTabor/MLOps/blob/main/images/login_to_zenml.png)
 
 # And now we can register our stack
+* We start from register mlflow-tracker
