@@ -10,3 +10,6 @@
 # And now we can register our stack
 * We start from register mlflow-tracker
 ![](https://github.com/JakubTabor/MLOps/blob/main/images/register_command.png)
+
+# And also model-deployer
+![](https://github.com/JakubTabor/MLOps/blob/main/images/register_model.png)
