@@ -14,3 +14,6 @@
 
 # And also model-deployer
 ![](https://github.com/JakubTabor/MLOps/blob/main/images/register_model.png)
+
+# Now we can register the mlflow-stack
+![](https://github.com/JakubTabor/MLOps/blob/main/images/mlflow_stack_register.png)
